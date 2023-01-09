@@ -15,4 +15,4 @@ Usa:
 - Chrome como navegador.
 
 ```
-![Demo](https://github.com/vhngroup/scraping_To_Books.toscrape/blob/main/Demo_Image.png)
+![Demo](https://raw.githubusercontent.com/vhngroup/scraping_To_Books.toscrape/main/Demo_Image.png)
