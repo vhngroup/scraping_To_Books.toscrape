@@ -14,5 +14,9 @@ Usa:
 - Webdriver Manager
 - Chrome como navegador.
 
-```
-![Demo](https://raw.githubusercontent.com/vhngroup/scraping_To_Books.toscrape/main/Demo_Image.png)
+![DemoImagen](https://raw.githubusercontent.com/vhngroup/scraping_To_Books.toscrape/main/Demo_Image.png)
+
+### Creditos
+
+Este proyecto esta basado en el video del canal [NeuralNine](https://www.youtube.com/watch?v=jraDTvKLLvY)
+Mis agradecimientos y respetos al autor.
